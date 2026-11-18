@@ -15,7 +15,7 @@ I use a Samsung but I love ColorOS, so I'm rebuilding One UI as ColorOS, one LSP
 
 | Part of One UI | Module | Status |
 |---|---|---|
-| Control centre and quick settings | [ColorCC](https://github.com/addictedcaf/ColorCC) | Out now, v0.99.110 |
+| Control centre and quick settings | [ColorCC](https://github.com/addictedcaf/ColorCC) | Out now, v1.2 |
 | Everything else | Coming | Previews on Telegram first |
 
 Every module runs inside the system as an LSPosed hook and changes nothing on disk. Turn one off and that part of One UI goes back to stock.
